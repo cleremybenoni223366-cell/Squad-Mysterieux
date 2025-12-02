@@ -1,9 +1,9 @@
 # Squad-Mysterieux
-CLEREMY Ben-Oni
-VICTOR Romual
-BIENVENU Fernando  S.
-DORVIL Wisley
-D. ORGEAT Robendes
+- CLEREMY Ben-Oni
+- VICTOR Romual
+- BIENVENU Fernando  S.
+- DORVIL Wisley
+- D. ORGEAT Robendes
 
 # Context and Problem Statement**
 
