@@ -41,3 +41,7 @@ We propose a mobile application that enables civil engineering professionals and
 
 # **Project Vision**
 Our ambition is to make Métrés & Devis a universal tool, useful in Haiti and beyond. The application will combine technical rigor, mobile accessibility, and modernity. It will evolve to include advanced features such as site monitoring, inventory management, and real-time collaboration.
+
+
+
+WhatsApp Image 2025-12-05 at 21.15.44.jpeg
