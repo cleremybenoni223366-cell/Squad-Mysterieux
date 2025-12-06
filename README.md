@@ -44,4 +44,5 @@ Our ambition is to make Métrés & Devis a universal tool, useful in Haiti and b
 
 
 
-WhatsApp Image 2025-12-05 at 21.15.44.jpeg
+![Uploading WhatsApp Image 2025-12-05 at 21.15.44.gif…]()
+
